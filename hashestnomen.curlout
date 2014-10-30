@@ -1,0 +1,1 @@
+%{local_ip} "%{url_effective}" %{http_code} "%{content_type}" "%{filename_effective}"\n
